@@ -319,8 +319,8 @@
     <City Name="Edmonton" CityName="Edmonton" Country="Канада"/>
   </File>
   <File>
-    <Zip Name="Ekaterinburg.zip" Size="339169" Date="43157"/>
-    <Pmz Name="Ekaterinburg.pmz" Size="343706" Date="43157"/>
+    <Zip Name="Ekaterinburg.zip" Size="339169" Date="43158"/>
+    <Pmz Name="Ekaterinburg.pmz" Size="343706" Date="43158"/>
     <City Name="Ekaterinburg" CityName="Екатеринбург" Country="Россия"/>
   </File>
   <File>
@@ -471,8 +471,8 @@
     <City Name="Kaohsiung" CityName="Kaohsiung" Country="Тайвань"/>
   </File>
   <File>
-    <Zip Name="Kazan.zip" Size="179065" Date="41433"/>
-    <Pmz Name="Kazan.pmz" Size="181052" Date="41424"/>
+    <Zip Name="Kazan.zip" Size="179065" Date="43158"/>
+    <Pmz Name="Kazan.pmz" Size="181052" Date="43158"/>
     <City Name="Kazan" CityName="Казань" Country="Россия"/>
   </File>
   <File>
@@ -741,13 +741,13 @@
     <City Name="Montreal" CityName="Montreal" Country="Канада"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="646883" Date="43157"/>
-    <Pmz Name="Moscow.pmz" Size="622805" Date="43157"/>
+    <Zip Name="Moscow.zip" Size="646883" Date="43162"/>
+    <Pmz Name="Moscow.pmz" Size="622805" Date="43162"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
-    <Zip Name="Moscow3d.zip" Size="7512157" Date="43138"/>
-    <Pmz Name="Moscow3d.pmz" Size="7584367" Date="43138"/>
+    <Zip Name="Moscow3d.zip" Size="7512157" Date="43157"/>
+    <Pmz Name="Moscow3d.pmz" Size="7584367" Date="43157"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
@@ -856,8 +856,8 @@
     <City Name="Ningbo" CityName="Ningbo" Country="Китай"/>
   </File>
   <File>
-    <Zip Name="NNovgorod.zip" Size="49131" Date="42503"/>
-    <Pmz Name="NNovgorod.pmz" Size="51052" Date="41224"/>
+    <Zip Name="NNovgorod.zip" Size="49131" Date="43158"/>
+    <Pmz Name="NNovgorod.pmz" Size="51052" Date="43158"/>
     <City Name="NNovgorod" CityName="Нижний Новгород" Country="Россия"/>
   </File>
   <File>
@@ -867,8 +867,8 @@
     <Map Comment="Схема мечтателя"/>
   </File>
   <File>
-    <Zip Name="Novosibirsk.zip" Size="519282" Date="42269"/>
-    <Pmz Name="Novosibirsk.pmz" Size="525271" Date="42138"/>
+    <Zip Name="Novosibirsk.zip" Size="519282" Date="43158"/>
+    <Pmz Name="Novosibirsk.pmz" Size="525271" Date="43158"/>
     <City Name="Novosibirsk" CityName="Новосибирск" Country="Россия"/>
   </File>
   <File>
@@ -1068,8 +1068,8 @@
     <City Name="Salvador" CityName="Salvador" Country="Бразилия"/>
   </File>
   <File>
-    <Zip Name="Samara.zip" Size="371833" Date="42073"/>
-    <Pmz Name="Samara.pmz" Size="377501" Date="42038"/>
+    <Zip Name="Samara.zip" Size="371833" Date="43158"/>
+    <Pmz Name="Samara.pmz" Size="377501" Date="43158"/>
     <City Name="Samara" CityName="Самара" Country="Россия"/>
   </File>
   <File>
