@@ -741,8 +741,8 @@
     <City Name="Montreal" CityName="Montreal" Country="Канада"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="646883" Date="43175"/>
-    <Pmz Name="Moscow.pmz" Size="622805" Date="43175"/>
+    <Zip Name="Moscow.zip" Size="646883" Date="43181"/>
+    <Pmz Name="Moscow.pmz" Size="622805" Date="43181"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
