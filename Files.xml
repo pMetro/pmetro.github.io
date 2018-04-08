@@ -856,8 +856,8 @@
     <City Name="Ningbo" CityName="Ningbo" Country="Китай"/>
   </File>
   <File>
-    <Zip Name="NNovgorod.zip" Size="49131" Date="43158"/>
-    <Pmz Name="NNovgorod.pmz" Size="51052" Date="43158"/>
+    <Zip Name="NNovgorod.zip" Size="49131" Date="43187"/>
+    <Pmz Name="NNovgorod.pmz" Size="51052" Date="43187"/>
     <City Name="NNovgorod" CityName="Нижний Новгород" Country="Россия"/>
   </File>
   <File>
@@ -936,8 +936,8 @@
     <City Name="Perugia" CityName="Perugia" Country="Италия"/>
   </File>
   <File>
-    <Zip Name="Peterburg.zip" Size="2523623" Date="43157"/>
-    <Pmz Name="Peterburg.pmz" Size="2550226" Date="43157"/>
+    <Zip Name="Peterburg.zip" Size="2523623" Date="43187"/>
+    <Pmz Name="Peterburg.pmz" Size="2550226" Date="43187"/>
     <City Name="Peterburg" CityName="Санкт-Петербург" Country="Россия"/>
   </File>
   <File>
