@@ -741,70 +741,28 @@
     <City Name="Montreal" CityName="Montreal" Country="Канада"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="646883" Date="43570"/>
-    <Pmz Name="Moscow.pmz" Size="622805" Date="43570"/>
+    <Zip Name="Moscow.zip" Size="646883" Date="43571"/>
+    <Pmz Name="Moscow.pmz" Size="622805" Date="43571"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
-    <Map Comment="схема Московского метрополитена"/>
+    <Map Comment="Схема Московского метро"/>
   </File>
   <File>
-    <Zip Name="Moscow3d.zip" Size="7512157" Date="43570"/>
-    <Pmz Name="Moscow3d.pmz" Size="7584367" Date="43570"/>
-    <City Name="Moscow3d" CityName="Москва" Country="Россия"/>
-    <Map Comment="трёхмерная схема развития Московского метрополитена"/>
+    <Zip Name="Moscow_Mobile.zip" Size="646883" Date="43571"/>
+    <Pmz Name="Moscow_Mobile.pmz" Size="622805" Date="43571"/>
+    <City Name="Moscow" CityName="Москва" Country="Россия"/>
+    <Map Comment="Схема Московского метро (мобильная версия)"/>
   </File>
   <File>
-    <Zip Name="MoscowGrd.zip" Size="303050" Date="43570"/>
-    <Pmz Name="MoscowGrd.pmz" Size="302800" Date="43570"/>
-    <City Name="MoscowGrd" CityName="Москва" Country="Россия"/>
-    <Map Comment="схема движения"/>
+    <Zip Name="Moscow_Next.zip" Size="646883" Date="43571"/>
+    <Pmz Name="Moscow_Next.pmz" Size="622805" Date="43571"/>
+    <City Name="Moscow" CityName="Москва" Country="Россия"/>
+    <Map Comment="Перспективная схема Московского метро"/>
   </File>
   <File>
-    <Zip Name="MoscowHistory.zip" Size="211568" Date="43570"/>
-    <Pmz Name="MoscowHistory.pmz" Size="273268" Date="43570"/>
-    <City Name="MoscowHistory" CityName="Москва" Country="Россия"/>
-    <Map Comment="схема развития Московского метрополитена"/>
-  </File>
-  <File>
-    <Zip Name="MoscowTrams.zip" Size="59741" Date="43570"/>
-    <Pmz Name="MoscowTrams.pmz" Size="60578" Date="43570"/>
-    <City Name="MoscowTrams" CityName="Москва" Country="Россия"/>
-    <Map Comment="схема движения трамваев"/>
-  </File>
-  <File>
-    <Zip Name="MoscowTrolleys.zip" Size="83703" Date="43570"/>
-    <Pmz Name="MoscowTrolleys.pmz" Size="83924" Date="43570"/>
-    <City Name="MoscowTrolleys" CityName="Москва" Country="Россия"/>
-    <Map Comment="схема движения троллейбусов"/>
-  </File>
-  <File>
-    <Zip Name="MoscowZelBuses.zip" Size="20898" Date="43570"/>
-    <Pmz Name="MoscowZelBuses.pmz" Size="21093" Date="43570"/>
-    <City Name="MoscowZelBuses" CityName="Москва" Country="Россия"/>
-    <Map Comment="схема движения автобусов Зеленограда"/>
-  </File>
-  <File>
-    <Zip Name="Moscow_f.zip" Size="266332" Date="43570"/>
-    <Pmz Name="Moscow_f.pmz" Size="265887" Date="43570"/>
-    <City Name="Moscow_f" CityName="Москва" Country="Россия"/>
-    <Map Comment="перспективная, с сюрпризом"/>
-  </File>
-  <File>
-    <Zip Name="Moscow_old.zip" Size="90090" Date="43570"/>
-    <Pmz Name="Moscow_old.pmz" Size="56010" Date="43570"/>
-    <City Name="Moscow_old" CityName="Москва" Country="Россия"/>
-    <Map Comment="старая схема"/>
-  </File>
-  <File>
-    <Zip Name="Moscow_pix.zip" Size="278612" Date="43570"/>
-    <Pmz Name="Moscow_pix.pmz" Size="244312" Date="43570"/>
-    <City Name="Moscow_pix" CityName="Москва" Country="Россия"/>
-    <Map Comment="пиксельная"/>
-  </File>
-  <File>
-    <Zip Name="Moscow_skor.zip" Size="236650" Date="43570"/>
-    <Pmz Name="Moscow_skor.pmz" Size="202348" Date="43570"/>
-    <City Name="Moscow_Skor" CityName="Москва" Country="Россия"/>
-    <Map Comment="скоростная"/>
+    <Zip Name="Moscow_Next_ST.zip" Size="646883" Date="43571"/>
+    <Pmz Name="Moscow_Next_ST.pmz" Size="622805" Date="43571"/>
+    <City Name="Moscow" CityName="Москва" Country="Россия"/>
+    <Map Comment="Перспективная схема (с закрытыми участками)"/>
   </File>
   <File>
     <Zip Name="Mumbai.zip" Size="3484" Date="43570"/>
