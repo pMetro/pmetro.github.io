@@ -10,9 +10,10 @@ else
     exit;
 fi
 DM="curl -sL"
+URL="http://pmetro.chpeks.com/download/pMetroSetup.exe"
 
 cd ${DIR}
-$DM -o 'pMetroSetup.exe' 'http://pmetro.su/download/pMetroSetup.exe'
+$DM -o 'pMetroSetup.exe' $URL
 INNOBIN="$INNO*/innoextract"
 if [ "$(uname)" = "Linux" ] && [ ! -f ${DIR}/${INNOBIN} ]; then
     $DM "http://constexpr.org/innoextract/files/$INNO-linux.tar.xz" | tar -xJ
@@ -21,14 +22,20 @@ elif [ "$(expr substr $(uname) 1 5)" = "MINGW" ] && [ ! -f ${DIR}/${INNOBIN}.exe
     unzip -q "$INNO-windows.zip" -d $INNO && rm "$INNO-windows.zip"
 fi
 ${DIR}/${INNOBIN} -se pMetroSetup.exe
-for i in app/*.pmz; do
-    $ZIP ./download/$(basename "$i" .pmz).zip $i;
+cd app/
+for i in *.pmz; do
+    $ZIP ../download/$(basename "$i" .pmz).zip $i;
 done
-rm -rf pMetroSetup.exe app/
-d1=$(date -d "now" +%s)
+cd .. && rm -rf pMetroSetup.exe app/
+
+$DM "https://mrsuperwolf.github.io/download/Moscow.zip" -o "./download/"
+$DM "https://mrsuperwolf.github.io/download/Moscow_{Mobile,Next,Next_ST}.zip" -o "./download/Moscow_#1.zip"
+
+md=$(curl -sI $URL | grep '^Last' | grep -oE '[0-9]{2}[[:space:]][a-zA-Z]{3}[[:space:]][0-9]{4}')
+d1=$(date -d "$md" +%s)
 d2=$(date -d "30 Dec 1899" +%s)
 sed -i "s/Date=\".*\"/Date=\"$(( (d1 - d2) / 86400 ))\"/g" Files.xml
 
-git add .
-git commit -m $(date -d now +%F)
-git push
+#git add .
+#git commit -m "$md"
+#git push
