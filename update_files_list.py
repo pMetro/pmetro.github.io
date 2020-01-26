@@ -16,24 +16,6 @@ def to_excel_date(date):
     return delta.days if delta.days < 60 else delta.days + 1  # Feb 29 bug https://support.microsoft.com/en-us/kb/214326
 
 
-def validate(xml_parser, xml_filename):
-    try:
-        with open(xml_filename, 'r') as f:
-            lxml.etree.fromstring(f.read(), xml_parser)
-        return True
-    except lxml.etree.XMLSchemaError:
-        return False
-
-
-# def check_zip(zip_name, pmz_name, pmz_size):
-#     zip_archive = zipfile.ZipFile(MAP_DIR + os.sep + zip_name, 'r')
-#     info_pmz = zip_archive.NameToInfo[pmz_name]
-#     if pmz_size != info_pmz.file_size:
-#         print('Size differ')
-#         return True
-#     return False
-
-
 def check_file(file, i):
     zip_xml = file.find('Zip')
     zip_name = zip_xml.attrib['Name']
@@ -55,7 +37,10 @@ def check_file(file, i):
         info_pmz = zip_archive.NameToInfo[pmz_name]
 
         if pmz_size != info_pmz.file_size:
-            pmz_xml.attrib['Date'] = str(to_excel_date(datetime.datetime(*info_pmz.date_time)))  # TODO
+            zip_xml.attrib['Date'] = str(to_excel_date(datetime.datetime(*info_pmz.date_time)))
+            zip_xml.attrib['Size'] = str(os.stat(MAP_DIR + os.sep + zip_name).st_size)
+            pmz_xml.attrib['Date'] = str(to_excel_date(datetime.datetime(*info_pmz.date_time)))
+            pmz_xml.attrib['Size'] = str(info_pmz.file_size)
             return True
     return False
 
@@ -66,10 +51,10 @@ def main():
         schema_root = lxml.etree.XML(f.read())
 
     schema = lxml.etree.XMLSchema(schema_root)
-    xmlparser = lxml.etree.XMLParser(schema=schema)
+    xml_parser = lxml.etree.XMLParser(schema=schema)
 
     try:
-        tree = lxml.etree.parse(FILES_FILENAME, xmlparser)
+        tree = lxml.etree.parse(FILES_FILENAME, xml_parser)
         encoding = tree.docinfo.encoding
     except lxml.etree.LxmlError as e:
         print('Xml file {} doesn\'t match schema {}'.format(FILES_FILENAME, SCHEMA_FILENAME))
