@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
-<FileList DataVersion="1" Date="44034">
+<FileList DataVersion="1" Date="44040">
   <File>
     <Zip Name="Adana.zip" Size="2055" Date="39947"/>
     <Pmz Name="Adana.pmz" Size="1825" Date="39906"/>
@@ -741,8 +741,8 @@
     <City Name="Montreal" CityName="Montreal" Country="Канада"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="644008" Date="44034"/>
-    <Pmz Name="Moscow.pmz" Size="673411" Date="44033"/>
+    <Zip Name="Moscow.zip" Size="644344" Date="44038"/>
+    <Pmz Name="Moscow.pmz" Size="673375" Date="44038"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
