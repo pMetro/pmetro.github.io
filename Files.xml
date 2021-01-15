@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
-<FileList DataVersion="1" Date="44150">
+<FileList DataVersion="1" Date="44211">
   <File>
     <Zip Name="Adana.zip" Size="2055" Date="39947"/>
     <Pmz Name="Adana.pmz" Size="1825" Date="39906"/>
@@ -703,8 +703,8 @@
     <City Name="Minneapolis" CityName="Minneapolis - St.Paul" Country="США"/>
   </File>
   <File>
-    <Zip Name="Minsk.zip" Size="135613" Date="42548"/>
-    <Pmz Name="Minsk.pmz" Size="143247" Date="42548"/>
+    <Zip Name="Minsk.zip" Size="135862" Date="44211"/>
+    <Pmz Name="Minsk.pmz" Size="143596" Date="44211"/>
     <City Name="Minsk" CityName="Минск" Country="Беларусь"/>
   </File>
   <File>
@@ -741,8 +741,8 @@
     <City Name="Montreal" CityName="Montreal" Country="Канада"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="645200" Date="44141"/>
-    <Pmz Name="Moscow.pmz" Size="674335" Date="44141"/>
+    <Zip Name="Moscow.zip" Size="638254" Date="44211"/>
+    <Pmz Name="Moscow.pmz" Size="666471" Date="44211"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
@@ -1210,8 +1210,8 @@
     <City Name="Taipei" CityName="Taipei" Country="Тайвань"/>
   </File>
   <File>
-    <Zip Name="Tashkent.zip" Size="98923" Date="42765"/>
-    <Pmz Name="Tashkent.pmz" Size="112444" Date="42765"/>
+    <Zip Name="Tashkent.zip" Size="98967" Date="44211"/>
+    <Pmz Name="Tashkent.pmz" Size="111840" Date="44211"/>
     <City Name="Tashkent" CityName="Ташкент" Country="Узбекистан"/>
   </File>
   <File>
