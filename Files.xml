@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
-<FileList DataVersion="1" Date="44150">
+<FileList DataVersion="1" Date="44227">
   <File>
     <Zip Name="Adana.zip" Size="2055" Date="39947"/>
     <Pmz Name="Adana.pmz" Size="1825" Date="39906"/>
@@ -703,32 +703,9 @@
     <City Name="Minneapolis" CityName="Minneapolis - St.Paul" Country="США"/>
   </File>
   <File>
-    <Zip Name="Minsk.zip" Size="135613" Date="42548"/>
-    <Pmz Name="Minsk.pmz" Size="143247" Date="42548"/>
+    <Zip Name="Minsk.zip" Size="135862" Date="44179"/>
+    <Pmz Name="Minsk.pmz" Size="143596" Date="44179"/>
     <City Name="Minsk" CityName="Минск" Country="Беларусь"/>
-  </File>
-  <File>
-    <Zip Name="MinskB.zip" Size="28383" Date="42549"/>
-    <Pmz Name="MinskB.pmz" Size="22727" Date="42548"/>
-    <City Name="MinskB" CityName="Мiнск" Country="Беларусь"/>
-  </File>
-  <File>
-    <Zip Name="MinskP.zip" Size="464535" Date="42549"/>
-    <Pmz Name="MinskP.pmz" Size="456236" Date="42548"/>
-    <City Name="MinskP" CityName="Минск" Country="Беларусь"/>
-    <Map Comment="бумажная карта"/>
-  </File>
-  <File>
-    <Zip Name="Minsk_Project_Gor.zip" Size="13163" Date="42549"/>
-    <Pmz Name="Minsk_Project_Gor.pmz" Size="5432" Date="39697"/>
-    <City Name="Minsk_Project_Gor" CityName="Минск" Country="Беларусь"/>
-    <Map Comment="проект А. Горелько"/>
-  </File>
-  <File>
-    <Zip Name="Minsk_Project_Mmp.zip" Size="12366" Date="42549"/>
-    <Pmz Name="Minsk_Project_Mmp.pmz" Size="4628" Date="39697"/>
-    <City Name="Minsk_Project_Mmp" CityName="Минск" Country="Беларусь"/>
-    <Map Comment="проект ММП"/>
   </File>
   <File>
     <Zip Name="Monterrey.zip" Size="1930" Date="43701"/>
@@ -741,8 +718,8 @@
     <City Name="Montreal" CityName="Montreal" Country="Канада"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="645200" Date="44141"/>
-    <Pmz Name="Moscow.pmz" Size="674335" Date="44141"/>
+    <Zip Name="Moscow.zip" Size="638254" Date="44202"/>
+    <Pmz Name="Moscow.pmz" Size="666471" Date="44202"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
@@ -763,11 +740,6 @@
   <File>
     <Zip Name="MoscowTrams.zip" Size="59866" Date="43802"/>
     <Pmz Name="MoscowTrams.pmz" Size="60617" Date="43802"/>
-    <City Name="Moscow" CityName="Москва" Country="Россия"/>
-  </File>
-  <File>
-    <Zip Name="MoscowTrolleys.zip" Size="83783" Date="43802"/>
-    <Pmz Name="MoscowTrolleys.pmz" Size="83947" Date="43802"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
@@ -1210,8 +1182,8 @@
     <City Name="Taipei" CityName="Taipei" Country="Тайвань"/>
   </File>
   <File>
-    <Zip Name="Tashkent.zip" Size="98923" Date="42765"/>
-    <Pmz Name="Tashkent.pmz" Size="112444" Date="42765"/>
+    <Zip Name="Tashkent.zip" Size="89991" Date="44214"/>
+    <Pmz Name="Tashkent.pmz" Size="95257" Date="44214"/>
     <City Name="Tashkent" CityName="Ташкент" Country="Узбекистан"/>
   </File>
   <File>
