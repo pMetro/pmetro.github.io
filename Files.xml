@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
-<FileList DataVersion="1" Date="44227">
+<FileList DataVersion="1" Date="44359">
   <File>
     <Zip Name="Adana.zip" Size="2055" Date="39947"/>
     <Pmz Name="Adana.pmz" Size="1825" Date="39906"/>
@@ -718,8 +718,8 @@
     <City Name="Montreal" CityName="Montreal" Country="Канада"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="638254" Date="44202"/>
-    <Pmz Name="Moscow.pmz" Size="666471" Date="44202"/>
+    <Zip Name="Moscow.zip" Size="637360" Date="44287"/>
+    <Pmz Name="Moscow.pmz" Size="666018" Date="44287"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
@@ -828,8 +828,8 @@
     <City Name="Ningbo" CityName="Ningbo" Country="Китай"/>
   </File>
   <File>
-    <Zip Name="NNovgorod.zip" Size="49860" Date="43266"/>
-    <Pmz Name="NNovgorod.pmz" Size="54579" Date="43266"/>
+    <Zip Name="NNovgorod.zip" Size="49808" Date="44270"/>
+    <Pmz Name="NNovgorod.pmz" Size="54654" Date="44270"/>
     <City Name="NNovgorod" CityName="Нижний Новгород" Country="Россия"/>
   </File>
   <File>
@@ -908,8 +908,8 @@
     <City Name="Perugia" CityName="Perugia" Country="Италия"/>
   </File>
   <File>
-    <Zip Name="Peterburg.zip" Size="2517576" Date="44141"/>
-    <Pmz Name="Peterburg.pmz" Size="2547849" Date="44141"/>
+    <Zip Name="Peterburg.zip" Size="2517565" Date="44270"/>
+    <Pmz Name="Peterburg.pmz" Size="2547870" Date="44270"/>
     <City Name="Peterburg" CityName="Санкт-Петербург" Country="Россия"/>
   </File>
   <File>
