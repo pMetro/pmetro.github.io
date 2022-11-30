@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
-<FileList DataVersion="1" Date="44807">
+<FileList DataVersion="1" Date="44895">
   <File>
     <Zip Name="Adana.zip" Size="2055" Date="39947"/>
     <Pmz Name="Adana.pmz" Size="1825" Date="39906"/>
@@ -718,8 +718,8 @@
     <City Name="Montreal" CityName="Montreal" Country="Канада"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="1364043" Date="44796"/>
-    <Pmz Name="Moscow.pmz" Size="1391680" Date="44796"/>
+    <Zip Name="Moscow.zip" Size="1363519" Date="44876"/>
+    <Pmz Name="Moscow.pmz" Size="1391717" Date="44876"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
@@ -728,8 +728,8 @@
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
-    <Zip Name="MoscowGrd.zip" Size="294259" Date="44548"/>
-    <Pmz Name="MoscowGrd.pmz" Size="294099" Date="44548"/>
+    <Zip Name="MoscowGrd.zip" Size="302978" Date="44865"/>
+    <Pmz Name="MoscowGrd.pmz" Size="302818" Date="44865"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
@@ -738,8 +738,8 @@
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
-    <Zip Name="MoscowTrams.zip" Size="59866" Date="43802"/>
-    <Pmz Name="MoscowTrams.pmz" Size="60617" Date="43802"/>
+    <Zip Name="MoscowTrams.zip" Size="59863" Date="44865"/>
+    <Pmz Name="MoscowTrams.pmz" Size="60614" Date="44865"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
@@ -1147,8 +1147,8 @@
     <City Name="Sofia" CityName="Sofia" Country="Болгария"/>
   </File>
   <File>
-    <Zip Name="Stockholm.zip" Size="5442" Date="40656"/>
-    <Pmz Name="Stockholm.pmz" Size="4850" Date="40570"/>
+    <Zip Name="Stockholm.zip" Size="4639" Date="44879"/>
+    <Pmz Name="Stockholm.pmz" Size="4877" Date="44879"/>
     <City Name="Stockholm" CityName="Stockholm" Country="Швеция"/>
   </File>
   <File>
