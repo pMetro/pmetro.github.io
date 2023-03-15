@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
-<FileList DataVersion="1" Date="44895">
+<FileList DataVersion="1" Date="45000">
   <File>
     <Zip Name="Adana.zip" Size="2055" Date="39947"/>
     <Pmz Name="Adana.pmz" Size="1825" Date="39906"/>
@@ -58,8 +58,8 @@
     <City Name="Atlanta" CityName="Atlanta" Country="США"/>
   </File>
   <File>
-    <Zip Name="Baku.zip" Size="6089" Date="43119"/>
-    <Pmz Name="Baku.pmz" Size="7180" Date="43119"/>
+    <Zip Name="Baku.zip" Size="5298" Date="44914"/>
+    <Pmz Name="Baku.pmz" Size="5952" Date="44914"/>
     <City Name="Баку" CityName="Баку" Country="Азербайджан"/>
   </File>
   <File>
@@ -471,8 +471,8 @@
     <City Name="Kaohsiung" CityName="Kaohsiung" Country="Тайвань"/>
   </File>
   <File>
-    <Zip Name="Kazan.zip" Size="178150" Date="43352"/>
-    <Pmz Name="Kazan.pmz" Size="181724" Date="43352"/>
+    <Zip Name="Kazan.zip" Size="178045" Date="44960"/>
+    <Pmz Name="Kazan.pmz" Size="181614" Date="44960"/>
     <City Name="Kazan" CityName="Казань" Country="Россия"/>
   </File>
   <File>
@@ -718,8 +718,8 @@
     <City Name="Montreal" CityName="Montreal" Country="Канада"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="1363519" Date="44876"/>
-    <Pmz Name="Moscow.pmz" Size="1391717" Date="44876"/>
+    <Zip Name="Moscow.zip" Size="1367369" Date="44992"/>
+    <Pmz Name="Moscow.pmz" Size="1395164" Date="44992"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
@@ -738,38 +738,14 @@
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
-    <Zip Name="MoscowTrams.zip" Size="59863" Date="44865"/>
-    <Pmz Name="MoscowTrams.pmz" Size="60614" Date="44865"/>
+    <Zip Name="MoscowTrams.zip" Size="59855" Date="44988"/>
+    <Pmz Name="MoscowTrams.pmz" Size="60624" Date="44988"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
     <Zip Name="MoscowZelBuses.zip" Size="20860" Date="43802"/>
     <Pmz Name="MoscowZelBuses.pmz" Size="21092" Date="43802"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
-  </File>
-  <File>
-    <Zip Name="Moscow_f.zip" Size="265934" Date="42086"/>
-    <Pmz Name="Moscow_f.pmz" Size="265786" Date="42086"/>
-    <City Name="Moscow_f" CityName="Москва" Country="Россия"/>
-    <Map Comment="перспективная, с сюрпризом"/>
-  </File>
-  <File>
-    <Zip Name="Moscow_old.zip" Size="90090" Date="41094"/>
-    <Pmz Name="Moscow_old.pmz" Size="56010" Date="39953"/>
-    <City Name="Moscow_old" CityName="Москва" Country="Россия"/>
-    <Map Comment="старая схема"/>
-  </File>
-  <File>
-    <Zip Name="Moscow_pix.zip" Size="278612" Date="39953"/>
-    <Pmz Name="Moscow_pix.pmz" Size="244312" Date="39953"/>
-    <City Name="Moscow_pix" CityName="Москва" Country="Россия"/>
-    <Map Comment="пиксельная"/>
-  </File>
-  <File>
-    <Zip Name="Moscow_skor.zip" Size="236650" Date="41094"/>
-    <Pmz Name="Moscow_skor.pmz" Size="202348" Date="39953"/>
-    <City Name="Moscow_Skor" CityName="Москва" Country="Россия"/>
-    <Map Comment="скоростная"/>
   </File>
   <File>
     <Zip Name="Mumbai.zip" Size="3484" Date="40656"/>
