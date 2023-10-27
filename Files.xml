@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
-<FileList DataVersion="1" Date="45032">
+<FileList DataVersion="1" Date="45226">
   <File>
     <Zip Name="Adana.zip" Size="2055" Date="39947"/>
     <Pmz Name="Adana.pmz" Size="1825" Date="39906"/>
@@ -718,33 +718,33 @@
     <City Name="Montreal" CityName="Montreal" Country="Канада"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="1361320" Date="45004"/>
-    <Pmz Name="Moscow.pmz" Size="1388611" Date="45004"/>
+    <Zip Name="Moscow.zip" Size="637541" Date="45205"/>
+    <Pmz Name="Moscow.pmz" Size="664606" Date="45205"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
-    <Zip Name="Moscow3d.zip" Size="8217886" Date="44548"/>
-    <Pmz Name="Moscow3d.pmz" Size="8279033" Date="44548"/>
+    <Zip Name="Moscow3d.zip" Size="8387408" Date="45205"/>
+    <Pmz Name="Moscow3d.pmz" Size="8453207" Date="45205"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
-    <Zip Name="MoscowGrd.zip" Size="302978" Date="44865"/>
-    <Pmz Name="MoscowGrd.pmz" Size="302818" Date="44865"/>
+    <Zip Name="MoscowGrd.zip" Size="302970" Date="45205"/>
+    <Pmz Name="MoscowGrd.pmz" Size="302810" Date="45205"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
-    <Zip Name="MoscowHistory.zip" Size="212596" Date="43802"/>
-    <Pmz Name="MoscowHistory.pmz" Size="273409" Date="43802"/>
+    <Zip Name="MoscowHistory.zip" Size="212596" Date="45181"/>
+    <Pmz Name="MoscowHistory.pmz" Size="273408" Date="45181"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
-    <Zip Name="MoscowTrams.zip" Size="59855" Date="44988"/>
-    <Pmz Name="MoscowTrams.pmz" Size="60624" Date="44988"/>
+    <Zip Name="MoscowTrams.zip" Size="59863" Date="45181"/>
+    <Pmz Name="MoscowTrams.pmz" Size="60625" Date="45181"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
-    <Zip Name="MoscowZelBuses.zip" Size="20860" Date="43802"/>
-    <Pmz Name="MoscowZelBuses.pmz" Size="21092" Date="43802"/>
+    <Zip Name="MoscowZelBuses.zip" Size="20854" Date="45181"/>
+    <Pmz Name="MoscowZelBuses.pmz" Size="21093" Date="45181"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
