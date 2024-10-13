@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='WINDOWS-1251'?>
-<FileList DataVersion="1" Date="45226">
+<FileList DataVersion="1" Date="45578">
   <File>
     <Zip Name="Adana.zip" Size="2055" Date="39947"/>
     <Pmz Name="Adana.pmz" Size="1825" Date="39906"/>
@@ -718,18 +718,18 @@
     <City Name="Montreal" CityName="Montreal" Country="Канада"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="637541" Date="45205"/>
-    <Pmz Name="Moscow.pmz" Size="664606" Date="45205"/>
+    <Zip Name="Moscow.zip" Size="638913" Date="45544"/>
+    <Pmz Name="Moscow.pmz" Size="666624" Date="45544"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
-    <Zip Name="Moscow3d.zip" Size="8387408" Date="45205"/>
-    <Pmz Name="Moscow3d.pmz" Size="8453207" Date="45205"/>
+    <Zip Name="Moscow3d.zip" Size="7522978" Date="45391"/>
+    <Pmz Name="Moscow3d.pmz" Size="7584284" Date="45391"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
-    <Zip Name="MoscowGrd.zip" Size="302970" Date="45205"/>
-    <Pmz Name="MoscowGrd.pmz" Size="302810" Date="45205"/>
+    <Zip Name="MoscowGrd.zip" Size="294316" Date="45391"/>
+    <Pmz Name="MoscowGrd.pmz" Size="294156" Date="45391"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
@@ -738,8 +738,8 @@
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
-    <Zip Name="MoscowTrams.zip" Size="59863" Date="45181"/>
-    <Pmz Name="MoscowTrams.pmz" Size="60625" Date="45181"/>
+    <Zip Name="MoscowTrams.zip" Size="57727" Date="45391"/>
+    <Pmz Name="MoscowTrams.pmz" Size="58364" Date="45391"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
@@ -1123,8 +1123,8 @@
     <City Name="Sofia" CityName="Sofia" Country="Болгария"/>
   </File>
   <File>
-    <Zip Name="Stockholm.zip" Size="4639" Date="44879"/>
-    <Pmz Name="Stockholm.pmz" Size="4877" Date="44879"/>
+    <Zip Name="Stockholm.zip" Size="4640" Date="45527"/>
+    <Pmz Name="Stockholm.pmz" Size="4876" Date="45527"/>
     <City Name="Stockholm" CityName="Stockholm" Country="Швеция"/>
   </File>
   <File>
@@ -1158,8 +1158,8 @@
     <City Name="Taipei" CityName="Taipei" Country="Тайвань"/>
   </File>
   <File>
-    <Zip Name="Tashkent.zip" Size="89991" Date="44214"/>
-    <Pmz Name="Tashkent.pmz" Size="95257" Date="44214"/>
+    <Zip Name="Tashkent.zip" Size="87562" Date="45355"/>
+    <Pmz Name="Tashkent.pmz" Size="92788" Date="45355"/>
     <City Name="Tashkent" CityName="Ташкент" Country="Узбекистан"/>
   </File>
   <File>
